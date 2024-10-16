@@ -1,2 +1,2 @@
 # Ajudaqui
-https://github.Gununes1108.io/Ajudaqui.com
+https://GuNunes1108.github.io/Ajudaqui
