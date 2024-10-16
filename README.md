@@ -1,3 +1,2 @@
 # Ajudaqui
-site de ajudas
-https://github.Gununes1108/Ajudaqui.com
+https://github.Gununes1108.io/Ajudaqui.com
