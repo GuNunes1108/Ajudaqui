@@ -1,0 +1,95 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    background-color: rgba(146, 247, 216, 0.89);
+}
+
+header {
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-header {
+    width: 25%;
+}
+
+.menu ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.menu li a {
+    color: rgb(61, 4, 134);
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+}
+
+#introducao {
+    display: flex;
+    height: 250px;
+    align-items: center;
+}
+
+#introducao div {
+    width: 50%;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+#sobre-nos{
+    margin-top: 50px; 
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgba(71, 32, 243, 0.89);
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#servicos{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: rgb(255, 255, 255);
+}
+#servicos h2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.conteudo-servicos{
+    background-color: rgba(71, 32, 243, 0.89);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.servicos{
+    width: 200px;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding-top: 25px;
+}
+
+footer p{
+    margin: 0;
+}
+
+.direitos-autorais{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
